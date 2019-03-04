@@ -1,5 +1,50 @@
+Books:
 
+	Bern Bruegge,Allen Dutoit: Object Oriented Software Engineering Using UML,
+	Patterns, and Java(3rd edition)	
 
-Constructor+Design Patterns+Overloading+Java
+Tutorials:
 
-https://stackoverflow.com/questions/1182153/constructor-overloading-in-java-best-practice
+	Java:
+
+	Java+Code+Procedural+Object+Advanced
+
+	https://www.tutorialspoint.com/java/
+
+	https://www.oracle.com/technetwork/java/index-138747.html
+
+	Java+UI+UX+Code+GUI+JavaFX
+
+	https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm
+
+Anecdote:	
+	
+	Constructor+DesignPatterns+Overloading+Java
+
+	https://stackoverflow.com/questions/1182153/constructor-overloading-in-java-best-practice
+
+Tools:
+	GNUPlot
+	Graphical+Plots+Plugin+Download
+	http://www.gnuplot.info/download.html
+	
+	Graphical+Plots+Plugin+Tutorials
+	https://www.youtube.com/watch?v=9k-l_ol9jok&list=PLBA14749045FC203B
+	
+	
+	MingGW MSys2:
+	Compiler+Installation	
+	http://www.msys2.org/	
+	https://github.com/msys2/msys2/wiki/MSYS2-installation
+
+	
+Trouble Shooting:
+	Java+Proxy+Settings+MarketPlace+Plugin
+	https://stackoverflow.com/questions/14794885/cant-access-eclipse-marketplace/25337453#25337453
+	
+To Read:
+-HMTL
+-Latex
+-MarkDown
+-CSS
+-JSON
