@@ -16,6 +16,10 @@ Tutorials:
 	Java+UI+UX+Code+GUI+JavaFX
 
 	https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm
+	
+	Python:
+	Python+Code+Procedural+Object+Advanced
+	https://www.youtube.com/watch?v=rfscVS0vtbw
 
 Anecdote:	
 	
