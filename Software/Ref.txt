@@ -31,6 +31,9 @@ Tools:
 	Graphical+Plots+Plugin+Tutorials
 	https://www.youtube.com/watch?v=9k-l_ol9jok&list=PLBA14749045FC203B
 	
+	Octave
+	Graphical+Plots+Plugin+Tutorials+Code
+	https://www.youtube.com/watch?v=X0xLTKRWPgo&list=PL1A2CSdiySGJ6oZe6XB-TTCFuHc5Fs1PO
 	
 	MingGW MSys2:
 	Compiler+Installation	
