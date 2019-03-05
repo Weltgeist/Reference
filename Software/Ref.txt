@@ -16,6 +16,16 @@ Tutorials:
 	Java+UI+UX+Code+GUI+JavaFX
 
 	https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm
+	
+	Python:
+	
+	
+	C++:
+	
+	C:
+	
+	Matlab:
+	
 
 Anecdote:	
 	
@@ -24,7 +34,7 @@ Anecdote:
 	https://stackoverflow.com/questions/1182153/constructor-overloading-in-java-best-practice
 
 Tools:
-	GNUPlot
+	GNUPlot:
 	Graphical+Plots+Plugin+Download
 	http://www.gnuplot.info/download.html
 	
@@ -36,6 +46,12 @@ Tools:
 	Compiler+Installation	
 	http://www.msys2.org/	
 	https://github.com/msys2/msys2/wiki/MSYS2-installation
+	
+	CMake:
+	
+	Make:
+	
+	
 
 	
 Trouble Shooting:
