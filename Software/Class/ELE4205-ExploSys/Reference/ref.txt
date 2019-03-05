@@ -1,0 +1,10 @@
+https://www.sciencedirect.com/book/9780123745408/tcp-ip-sockets-in-c
+http://linuxcommand.org/tlcl.php
+https://bootlin.com/
+http://linux-training.be/
+https://training.linuxfoundation.org/resources/
+http://www.tutorialspoint.com/index.htm
+
+
+https://www.atlassian.com/git/tutorials/what-is-version-control
+https://bitbucket.org/ele4205_membres/

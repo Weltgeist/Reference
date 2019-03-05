@@ -1,0 +1,57 @@
+#!/bin/bash
+POKYBUILD_LOCATION=/export/tmp/4205_nn/poky/build-oc2/
+BOOTDD_VOLUME_ID=odroid-c2
+ROOTFS_SIZE=202752
+IMAGE_ROOTFS_ALIGNMENT=1024
+BOOT_SPACE=131000
+
+# no modifcations required beyond this line
+SDCARD=oc2_lab2.sdcard
+BOOT_SPACE_ALIGNED=$(expr ${BOOT_SPACE} + ${IMAGE_ROOTFS_ALIGNMENT} - 1)
+BOOT_SPACE_ALIGNED=$(expr ${BOOT_SPACE_ALIGNED} - ${BOOT_SPACE_ALIGNED} % ${IMAGE_ROOTFS_ALIGNMENT})
+ROOTFS_SIZE_ALIGNED=$(expr ${ROOTFS_SIZE} + 1024 - 1)
+ROOTFS_SIZE_ALIGNED=$(expr ${ROOTFS_SIZE_ALIGNED} - ${ROOTFS_SIZE_ALIGNED} % 1024)
+SDIMG_SIZE=$(expr 1024 + ${BOOT_SPACE_ALIGNED} + ${ROOTFS_SIZE_ALIGNED})
+ROOTFS_EXT4_NAME=lab2-odroid-c2.rootfs.ext4
+
+PARTED=${POKYBUILD_LOCATION}/tmp/work/x86_64-linux/parted-native/3.2-r1/image${POKYBUILD_LOCATION}/tmp/sysroots/x86_64-linux/usr/sbin/parted
+
+rm -f boot.img
+
+# make ext4 and populate with rootfs
+dd if=/dev/zero of=${ROOTFS_EXT4_NAME} seek=${ROOTFS_SIZE_ALIGNED} count=0 bs=1024
+${POKYBUILD_LOCATION}/tmp/sysroots/x86_64-linux/sbin/mkfs.ext4 -F -i 4096 ${ROOTFS_EXT4_NAME} -d rootfs
+
+# make sdcard image and create partitions
+dd if=/dev/zero of=${SDCARD} bs=1 count=0 seek=$(expr 1024 \* ${SDIMG_SIZE})
+# Create partition table
+${PARTED} -s ${SDCARD} mklabel msdos
+${PARTED} ${SDCARD} print
+# Create boot partition and mark it as bootable
+${PARTED} -s ${SDCARD} unit KiB mkpart primary fat16 ${IMAGE_ROOTFS_ALIGNMENT} $(expr ${BOOT_SPACE_ALIGNED} \+ ${IMAGE_ROOTFS_ALIGNMENT})
+${PARTED} ${SDCARD} print
+# Create rootfs partition to the end of disk
+${PARTED} -s ${SDCARD} -- unit KiB mkpart primary ext2 $(expr ${BOOT_SPACE_ALIGNED} \+ ${IMAGE_ROOTFS_ALIGNMENT}) -1s
+${PARTED} ${SDCARD} print
+
+# write u-boot bootloaders
+dd if=bl1.bin.hardkernel of=${SDCARD} conv=notrunc bs=1 count=442
+dd if=bl1.bin.hardkernel of=${SDCARD} conv=notrunc bs=512 skip=1 seek=1
+dd if=u-boot.bin of=${SDCARD} conv=notrunc bs=512 seek=97
+parted -s ${SDCARD} unit b print
+BOOT_BLOCKS=$(LC_ALL=C parted -s ${SDCARD} unit b print \
+        | awk '/ 1 / { print substr($4, 1, length($4 -1)) / 1024 }')
+echo "boot.img blocks ${BOOT_BLOCKS}"
+
+# create fat disk image and copy the required files
+${POKYBUILD_LOCATION}/tmp/sysroots/x86_64-linux/sbin/mkfs.vfat -n "${BOOTDD_VOLUME_ID}" -S 512 -C boot.img ${BOOT_BLOCKS}
+mcopy -i boot.img -s Image ::/Image
+mcopy -i boot.img -s meson64_odroidc2.dtb ::/meson64_odroidc2.dtb
+mcopy -i boot.img -s boot.ini ::/boot.ini
+
+# Burn Partitions
+dd if=boot.img of=${SDCARD} conv=notrunc seek=1 bs=$(expr ${IMAGE_ROOTFS_ALIGNMENT} \* 1024) && sync && sync
+dd if=${ROOTFS_EXT4_NAME} of=${SDCARD} conv=notrunc seek=1 bs=$(expr 1024 \* ${BOOT_SPACE_ALIGNED} + ${IMAGE_ROOTFS_ALIGNMENT} \* 1024) && sync && sync
+${PARTED} ${SDCARD} print
+
+
