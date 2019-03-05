@@ -34,6 +34,7 @@ Tools:
 	
 	Graphical+Plots+Plugin+Tutorials
 	https://www.youtube.com/watch?v=9k-l_ol9jok&list=PLBA14749045FC203B
+	https://people.duke.edu/~hpgavin/gnuplot.html
 	
 	Octave
 	Graphical+Plots+Plugin+Tutorials+Code
