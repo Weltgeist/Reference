@@ -21,6 +21,11 @@ Tutorials:
 	Python+Code+Procedural+Object+Advanced
 	https://www.youtube.com/watch?v=rfscVS0vtbw
 
+CheatSheets:
+	Bash:
+	Bash+CheatSheet+Quick
+	https://devhints.io/bash
+
 Anecdote:	
 	
 	Constructor+DesignPatterns+Overloading+Java
