@@ -12,3 +12,6 @@ Software:
 
 Control:
 (To be updated)
+
+Project Management:
+(To be updated)
