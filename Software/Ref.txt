@@ -18,24 +18,60 @@ Tutorials:
 	https://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm
 	
 	Python:
+	
+	Python+Beginner+Tutorials
+	https://www.youtube.com/watch?v=rfscVS0vtbw&t=353s
+	https://www.w3schools.com/python/ref_dictionary_keys.asp
+	
 	Python+Project+Structure
 	https://julien.danjou.info/starting-your-first-python-project/
 	https://jeffknupp.com/blog/2014/02/04/starting-a-python-project-the-right-way/
 	https://www.jetbrains.com/help/pycharm/creating-and-running-your-first-python-project.html
 	https://www.youtube.com/watch?v=GeYis4ZuluY
+	https://realpython.com/python-application-layouts/#command-line-application-layouts
+	https://python-packaging.readthedocs.io/en/latest/minimal.html
+	https://docs.python-guide.org/writing/structure/
+	
 	Python+Download
 	https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
+	
 	Python+JSON
 	https://www.youtube.com/watch?v=9N6a-VLBa2I
+	https://docs.python.org/2/library/json.html
+	https://realpython.com/python-json/
+	https://stackoverflow.com/questions/12965203/how-to-get-json-from-webpage-into-python-script
+	
+	Python+Code+Procedural+Object+Advanced
+	https://www.youtube.com/watch?v=rfscVS0vtbw
+	https://docs.python.org/2/contents.html
+	https://realpython.com/
+	
+	Python+Email+Files+Request
+	https://realpython.com/python-send-email/
+	https://realpython.com/working-with-files-in-python/
+	https://realpython.com/python-requests/
+	
+	Python+IDE+VisualStudioCode
+	https://realpython.com/python-development-visual-studio-code/
+	
+	Python+JupiterNotebook
+	https://realpython.com/jupyter-notebook-introduction/
+	
+	Python+DesignPatterns
+	https://realpython.com/factory-method-python/
+	
+	Python+Scripts
+	https://realpython.com/run-python-scripts/
 	
 	C++:
 	
+	GoogleTest+UnitTest
+	https://www.youtube.com/watch?v=16FI1-d2P4E
 	C:
 	
 	Matlab:
 	
-	Python+Code+Procedural+Object+Advanced
-	https://www.youtube.com/watch?v=rfscVS0vtbw
+
 
 CheatSheets:
 	Bash:
@@ -45,7 +81,6 @@ CheatSheets:
 Anecdote:	
 	
 	Constructor+DesignPatterns+Overloading+Java
-
 	https://stackoverflow.com/questions/1182153/constructor-overloading-in-java-best-practice
 
 Tools:
@@ -66,17 +101,69 @@ Tools:
 	http://www.msys2.org/	
 	https://github.com/msys2/msys2/wiki/MSYS2-installation
 	
+	PIP:
+	PackageManager+Installation
+	https://www.makeuseof.com/tag/install-pip-for-python/
+	PIP+Install+Use+Generic
+	https://stackoverflow.com/questions/5226311/installing-specific-package-versions-with-pip
+	
+	Venv:
+	VirtualEnvironnement+Extras+ProjectManagers
+	http://timmyreilly.azurewebsites.net/python-pip-virtualenv-installation-on-windows/
+	
+	Flask:
+	MicroFramework+WebApplication+Python
+	http://flask.pocoo.org/
+	https://www.youtube.com/watch?v=ZVGwqnjOKjk
+	
+	Versioneer:
+	VersionManager+GitTagBased
+	https://pypi.org/project/versioneer/
+	
+	PyScaffold:
+	ProjectStructureInitializer
+	https://pyscaffold.org/en/latest/changelog.html
+	
+	Pkg_resources
+	Python+Packages
+	https://packages.debian.org/jessie/python-pkg-resources
+	
+	Vim:
+	TextEditor+CommandLine+Cmd
+	https://www.youtube.com/watch?v=71YTkxUNwmg
+	
+	JSONPlaceHolder:
+	DataWebServer+JSON
+	https://jsonplaceholder.typicode.com/
+	https://my-json-server.typicode.com/
+	
+	CommandPrompt
+	Cmd+UsefulTools
+	https://www.youtube.com/watch?v=YBa5z0OHYQw
+	
+	C
+	
 	CMake:
 	
 	Make:
 	
-	
+Information
+    License:
+	Generic+Information
+	https://choosealicense.com/
+	Structure:
+	Python+ProjectStructure
+	https://blog.ionelmc.ro/2014/05/25/python-packaging/
 
 	
 Trouble Shooting:
 	Java+Proxy+Settings+MarketPlace+Plugin
 	https://stackoverflow.com/questions/14794885/cant-access-eclipse-marketplace/25337453#25337453
-	
+	Python+PIP+Bug+Install
+	https://www.youtube.com/watch?v=237dNNQhD3Q
+	Setup+Skeleton
+	https://www.youtube.com/watch?v=YBa5z0OHYQw
+
 To Read:
 -HMTL
 -Latex
