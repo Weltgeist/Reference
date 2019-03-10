@@ -5,7 +5,24 @@ Robots
 http://www.popsci.com/technology/article/2013-06/darpa-virtual-tool-thats-revolutionizing-robotics
 
 
+Standards:
 
-Tolerancing:
-Tolerance+Shaft+Holes
-http://barreau.matthieu.free.fr/cours/ajustements/
+	Tolerancing:
+	Tolerance+Shaft+Holes
+	http://barreau.matthieu.free.fr/cours/ajustements/
+
+Manufacturing:
+	InjectionMolding:
+	InjectionModling+Manufacturing
+	https://www.3dsystems.com/quickparts/learning-center/injection-molding-basics
+	http://www.viewmold.com/sources/injection_molds_design_standard/Injection_Mold_type.html
+	https://www.rtpcompany.com/wp-content/uploads/RTP-Part-Design-Guidelines-for-Injection-Molded-Thermoplastics.pdf
+	
+	Bending:
+	BendRadius
+	https://www.protocase.com/resources/bend-radius.php
+
+Drawing:
+	DrawingExample
+	https://www.foundry.ray-vin.com/air-vib/air-vib.htm
+
