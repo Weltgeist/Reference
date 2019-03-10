@@ -65,13 +65,26 @@ Tutorials:
 	
 	C++:
 	
-	GoogleTest+UnitTest
+	Cpp+GoogleTest+UnitTest
 	https://www.youtube.com/watch?v=16FI1-d2P4E
 	C:
 	
 	Matlab:
+	Matlab+Tutorials+Arrays
+	https://www.tutorialspoint.com/matlab/matlab_arrays.htm
 	
+	
+	VBA:
+	VBA+Tutorial+StringManipulation
+	https://silkyroad.developpez.com/VBA/ManipulerChainesCaracteres/
+	VBA+Tutorial+ExcelObjects
+	http://www.excelfunctions.net/Excel-Objects.html
 
+DataStructure&Algorithm:
+	Dictionary+Algorithm+DataStructure
+	https://xlinux.nist.gov/dads/
+	http://algorist.com/problems/Generating_Graphs.html
+	http://www3.cs.stonybrook.edu/~algorith/files/generating-graphs.shtml
 
 CheatSheets:
 	Bash:
