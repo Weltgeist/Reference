@@ -21,8 +21,15 @@ Manufacturing:
 	Bending:
 	BendRadius
 	https://www.protocase.com/resources/bend-radius.php
+	http://www.americanmachinetools.com/bend_radius.htm
+	
+	Welding:
+	Welding+Symbols+Norme
+	http://www.weldersuniverse.com/welding_symbols.html
 
-Drawing:
+Drafting:
+	Drafting+Assembly+Parts
+	https://www.sldraftingdesign.com/drawings
 	DrawingExample
 	https://www.foundry.ray-vin.com/air-vib/air-vib.htm
 
