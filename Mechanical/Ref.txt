@@ -24,7 +24,7 @@ Manufacturing:
 	http://www.americanmachinetools.com/bend_radius.htm
 	
 	Welding:
-	Welding+Symbols+Norme
+	Welding+Symbols+Norm
 	http://www.weldersuniverse.com/welding_symbols.html
 
 Drafting:
