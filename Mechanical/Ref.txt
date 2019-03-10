@@ -1,0 +1,11 @@
+Books:
+
+Magazine:
+Robots
+http://www.popsci.com/technology/article/2013-06/darpa-virtual-tool-thats-revolutionizing-robotics
+
+
+
+Tolerancing:
+Tolerance+Shaft+Holes
+http://barreau.matthieu.free.fr/cours/ajustements/
