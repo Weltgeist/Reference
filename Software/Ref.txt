@@ -176,6 +176,11 @@ Trouble Shooting:
 	https://www.youtube.com/watch?v=237dNNQhD3Q
 	Setup+Skeleton
 	https://www.youtube.com/watch?v=YBa5z0OHYQw
+    Python+Pip+SSL+Certificate
+    https://python-forum.io/Thread-All-pip-install-attempts-are-met-with-SSL-error
+    https://stackoverflow.com/questions/53137700/ssl-module-in-python-is-not-available-windows-7
+    pip install --upgrade pip --trusted-host pypi.org --trusted-host files.pythonhosted.org
+    https://github.com/pypa/pip/issues/5448
 
 To Read:
 -HMTL
