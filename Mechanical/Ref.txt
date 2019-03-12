@@ -1,15 +1,28 @@
 Books:
+ Budynas, R., Nisbett, J., & Shigley, J. (2011). 
+ Shigley's mechanical engineering design. 
+ New York: McGraw-Hill.
 
 Magazine:
-Robots
-http://www.popsci.com/technology/article/2013-06/darpa-virtual-tool-thats-revolutionizing-robotics
+	Robots
+	http://www.popsci.com/technology/article/2013-06/darpa-virtual-tool-thats-revolutionizing-robotics
 
-
+Conference:
+	Generic
+	https://aeroconf.org/
+	https://www.ieee.org
+	https://ieeexplore.ieee.org
+	http://iftomm.net/
 Standards:
 
 	Tolerancing:
 	Tolerance+Shaft+Holes
 	http://barreau.matthieu.free.fr/cours/ajustements/
+	Tolerance+Geometric
+	https://fr.scribd.com/document/313913622/interpr99-PDF
+	
+	Holes
+	http://www.cotation-iso.fr/download.php?id=62
 
 Manufacturing:
 	InjectionMolding:
@@ -22,6 +35,8 @@ Manufacturing:
 	BendRadius
 	https://www.protocase.com/resources/bend-radius.php
 	http://www.americanmachinetools.com/bend_radius.htm
+	http://www.almet-metal.com/images/alu-aptitude-pliage-toles-aluminium.pdf
+	http://www.cuvelier-ludovic.fr/docs/mei/mecanique/pliage.pdf
 	
 	Welding:
 	Welding+Symbols+Norm
@@ -32,4 +47,24 @@ Drafting:
 	https://www.sldraftingdesign.com/drawings
 	DrawingExample
 	https://www.foundry.ray-vin.com/air-vib/air-vib.htm
+	
+Parts:
+	
+	DowelPin+Fixture+Part+Assembly
+	http://www.viewmold.com/sources/Unbrako/Metric%20Dowel%20Pins.pdf
+	
+	LinearGuides
+	https://www.thomsonlinear.com/downloads/bearings_guides/RoundRail_LinearGuides_Components_cten.pdf
+	http://www.nookindustries.com/Content/media/NOOK-Linear-Guidance-Catalog.pdf
+	
+	LinearPlainBearing
+	https://docs-emea.rs-online.com/webdocs/0029/0900766b80029eb2.pdf
+	
+Materials:
+	StainlessSteel
+	https://www.bssa.org.uk/topics.php?
+	
+Turoriel:
+	Catia+PartStructureAnalysis
+	http://www.catia.com.pl/tutorial/generative_part_structural_analysis.pdf
 
