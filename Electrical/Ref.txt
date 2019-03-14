@@ -1,0 +1,7 @@
+SequentialLogic:
+	SequentialCircuit+Combinatory+Sequential
+	https://www.youtube.com/watch?v=AaN72s5WfOM&list=PLmjEXDyU3L-mSz3eG4_JwVZt2fSon3tQX
+	
+Avionics:
+	Guide+Avionics+Panels+AirBus
+	https://www.mudspike.com/chucks-guides/

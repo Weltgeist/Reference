@@ -11,6 +11,7 @@ Tutorials:
 	https://computing.llnl.gov/tutorials/bgq/mixedProgramming2.pdf
 	https://wiki.calculquebec.ca/w/C%2B%2B_:_appels_Fortran/en
 	https://www.cae.tntech.edu/help/programming/mixed_languages
+	http://pages.tacc.utexas.edu/~eijkhout/istc/html/language.html
 
 	Java:
 
@@ -72,6 +73,12 @@ Tutorials:
 	
 
 	C++:
+	Cpp+Advanced+Tutorial
+	https://www.learncpp.com/
+	
+	Cpp+TCP/IP
+	https://www.geeksforgeeks.org/socket-programming-cc/
+	
 	DesignPattern+Factory
 	https://www.youtube.com/watch?v=bZ2OHWf7Yb0
 	
@@ -92,6 +99,14 @@ Tutorials:
 	https://silkyroad.developpez.com/VBA/ManipulerChainesCaracteres/
 	VBA+Tutorial+ExcelObjects
 	http://www.excelfunctions.net/Excel-Objects.html
+	
+	BatScript:
+	Tutorial+Basic
+	https://www.makeuseof.com/tag/write-simple-batch-bat-file/
+	
+	IDE:
+	VisualStudio+EnvParameters
+	https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/how-to-set-environment-variables-for-the-visual-studio-command-line
 
 MachineLearning:
 	Python
@@ -132,6 +147,10 @@ Libraries:
 	https://scipy.org/
 	https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 	
+	OpenCV:
+	Python+Cpp+MachineVision
+	https://docs.opencv.org/2.4/doc/tutorials/introduction/windows_install/windows_install.html#windows-installation
+	
 DataStructure&Algorithm:
 	Dictionary+Algorithm+DataStructure
 	https://xlinux.nist.gov/dads/
@@ -142,6 +161,15 @@ CheatSheets:
 	Bash:
 	Bash+CheatSheet+Quick
 	https://devhints.io/bash
+	
+	Linux:
+	Linux+Dictionary+Quick+CheatSheet
+	https://ss64.com/bash/
+	https://ryanstutorials.net/linuxtutorial/cheatsheet.php
+	
+	Git
+	Git+Cmd+CheatSheet
+	https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 
 Anecdote:	
 	
@@ -202,15 +230,48 @@ Tools:
 	https://jsonplaceholder.typicode.com/
 	https://my-json-server.typicode.com/
 	
-	CommandPrompt
+	CommandPrompt:
 	Cmd+UsefulTools
 	https://www.youtube.com/watch?v=YBa5z0OHYQw
 	
-	C
+	gcc:
+	Compiler+Options
+	https://gcc.gnu.org/onlinedocs/gcc-6.2.0/gcc/x86-Options.html
+	
+	gcc+Make
+	https://gcc.gnu.org/onlinedocs/gcc-6.2.0/gcc/x86-Options.html
+	
+	KoolPlot
+	PlotTool
+	http://koolplot.codecutter.org/
+	
+	QCustomPlot
+	PlotTool+Qt
+	https://www.qcustomplot.com/
+	
+	Gnuplot
+	PlotTool
+	http://www.gnuplot.info/
+	http://stahlke.org/dan/gnuplot-iostream/
+	http://ndevilla.free.fr/gnuplot/
+	
+	MathGl
+	PlotTool
+	http://mathgl.sourceforge.net/doc_en/Main.html
 	
 	CMake:
+	CrossPlatform+Build+Compilation
+	https://cmake.org/
+	
+	Cygwin:
+	LinuxInterpretor
+	https://cygwin.com/install.html
 	
 	Make:
+	
+	TurtoiseSVN
+	RevisionControl+VersionControl+SourceControl
+	https://tortoisesvn.net/
 	
 Information
     License:
