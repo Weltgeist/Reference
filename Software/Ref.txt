@@ -76,6 +76,15 @@ Tutorials:
 	Cpp+Advanced+Tutorial
 	https://www.learncpp.com/
 	
+	Cpp+STDLibrarie
+	https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4027/C-Tutorial-A-Beginners-Guide-to-stdvector-Part-1.htm
+	
+	Cpp+Beginner+Q/A+Array+PrivateStaticMember+Initialization
+	http://www.cplusplus.com/forum/beginner/160453/
+	https://stackoverflow.com/questions/185844/how-to-initialize-private-static-members-in-c
+	https://www.programiz.com/cpp-programming/passing-arrays-function
+	https://stackoverflow.com/questions/330793/how-to-initialize-a-struct-in-accordance-with-c-programming-language-standards
+	
 	Cpp+TCP/IP
 	https://www.geeksforgeeks.org/socket-programming-cc/
 	
@@ -85,6 +94,14 @@ Tutorials:
 	
 	Cpp+GoogleTest+UnitTest
 	https://www.youtube.com/watch?v=16FI1-d2P4E
+	
+	Cpp+ProjectStructure
+	https://medium.com/heuristics/c-application-development-part-1-project-structure-454b00f9eddc
+	
+	Cpp+SDL2+Games
+	http://lazyfoo.net/tutorials/SDL/
+	https://www.willusher.io/pages/sdl2/
+	
 	C:
 	
 	Matlab:
@@ -108,6 +125,10 @@ Tutorials:
 	VisualStudio+EnvParameters
 	https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/how-to-set-environment-variables-for-the-visual-studio-command-line
 
+	
+	CodeBlock+SDL2+Cpp+Image
+	https://www.youtube.com/watch?v=Gj3iXwvKmUY
+	
 MachineLearning:
 	Python
 	Python+MachineLearning+GradientDescent
@@ -147,8 +168,13 @@ Libraries:
 	https://scipy.org/
 	https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
 	
-	OpenCV:
-	Python+Cpp+MachineVision
+	C++:
+	SDL+GUI+I/OControl+Graphics
+	http://www.libsdl.org/
+	
+	
+	Mix:
+	OpenCV+Python+Cpp+MachineVision
 	https://docs.opencv.org/2.4/doc/tutorials/introduction/windows_install/windows_install.html#windows-installation
 	
 DataStructure&Algorithm:
@@ -273,10 +299,17 @@ Tools:
 	RevisionControl+VersionControl+SourceControl
 	https://tortoisesvn.net/
 	
+	Git:
+	Git+Informal
+	https://en.wikipedia.org/wiki/Git
+	Git+Rebase
+	https://benmarshall.me/git-rebase/
+	
 Information
     License:
 	Generic+Information
 	https://choosealicense.com/
+	https://www.youtube.com/watch?v=RvuYC2hIBaw
 	Structure:
 	Python+ProjectStructure
 	https://blog.ionelmc.ro/2014/05/25/python-packaging/
