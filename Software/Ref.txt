@@ -5,6 +5,13 @@ Books:
 
 Tutorials:
 
+	Mixed:
+	Fortan+Cpp
+	http://www.yolinux.com/TUTORIALS/LinuxTutorialMixingFortranAndC.html
+	https://computing.llnl.gov/tutorials/bgq/mixedProgramming2.pdf
+	https://wiki.calculquebec.ca/w/C%2B%2B_:_appels_Fortran/en
+	https://www.cae.tntech.edu/help/programming/mixed_languages
+
 	Java:
 
 	Java+Code+Procedural+Object+Advanced
