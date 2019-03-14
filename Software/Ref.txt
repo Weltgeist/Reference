@@ -63,7 +63,11 @@ Tutorials:
 	Python+Scripts
 	https://realpython.com/run-python-scripts/
 	
+
 	C++:
+	DesignPattern+Factory
+	https://www.youtube.com/watch?v=bZ2OHWf7Yb0
+	
 	
 	Cpp+GoogleTest+UnitTest
 	https://www.youtube.com/watch?v=16FI1-d2P4E
@@ -73,6 +77,8 @@ Tutorials:
 	Matlab+Tutorials+Arrays
 	https://www.tutorialspoint.com/matlab/matlab_arrays.htm
 	
+
+	
 	
 	VBA:
 	VBA+Tutorial+StringManipulation
@@ -80,6 +86,45 @@ Tutorials:
 	VBA+Tutorial+ExcelObjects
 	http://www.excelfunctions.net/Excel-Objects.html
 
+MachineLearning:
+	Python
+	Python+MachineLearning+GradientDescent
+	https://www.youtube.com/watch?v=vsWrXfO3wWw
+
+Optimization:
+	Python:
+	Python+Optimization
+	https://www.youtube.com/channel/UCkL2HNDjyhrT6hgWjikmQAg
+	
+Control:
+	Python:
+	Python+StateSpaceModel
+	https://www.youtube.com/watch?v=AmYWJnPnjY8
+	
+	Python+StateSpace+Identification
+	https://stackoverflow.com/questions/37695253/python-identifying-a-state-space-model-for-a-system
+	
+	Python+ControlTheory+Course
+	https://www.youtube.com/watch?v=SgBuzrtqor0&list=PLLBUgWXdTBDhrs5FuoJXni-cIeNYEyxw1
+
+	Matlab:
+	Matlab+SystemIdentification
+	https://www.youtube.com/watch?v=u7hJ1aF-JrU
+	https://www.mathworks.com/help/control/getstart/system-identification-of-plant-models.html
+	https://www.mathworks.com/help/mpc/gs/system-identification-toolbox-models.html
+	
+
+Libraries:
+
+	Python:
+	Python+MachineLearning
+	https://scikit-learn.org/stable/
+	
+	Python:
+	Python+Math+Optimization
+	https://scipy.org/
+	https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
+	
 DataStructure&Algorithm:
 	Dictionary+Algorithm+DataStructure
 	https://xlinux.nist.gov/dads/
