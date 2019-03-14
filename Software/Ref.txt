@@ -181,6 +181,13 @@ Trouble Shooting:
     https://stackoverflow.com/questions/53137700/ssl-module-in-python-is-not-available-windows-7
     pip install --upgrade pip --trusted-host pypi.org --trusted-host files.pythonhosted.org
     https://github.com/pypa/pip/issues/5448
+	
+	Computer+BSOD
+	http://www.bleepingcomputer.com/forums/t/40108/how-to-use-event-viewer/
+	
+Acess:
+	SSH+Windows+Linux
+	johnatten.com/2012/11/21/how-to-use-ssh-to-access-a-linux-machine-from-windows/
 
 To Read:
 -HMTL
