@@ -330,6 +330,8 @@ Trouble Shooting:
 	
 	Computer+BSOD
 	http://www.bleepingcomputer.com/forums/t/40108/how-to-use-event-viewer/
+Tools
+    dir filename.ext /S /B
 	
 Acess:
 	SSH+Windows+Linux
