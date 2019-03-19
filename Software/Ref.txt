@@ -1,7 +1,11 @@
 Books:
 
 	Bern Bruegge,Allen Dutoit: Object Oriented Software Engineering Using UML,
-	Patterns, and Java(3rd edition)	
+	Patterns, and Java(3rd edition)
+
+Course:
+	ProgramingConcept+OOP+Functional+Procedural+logical
+	https://www.youtube.com/watch?v=cgVVZMfLjEI
 
 Tutorials:
 
