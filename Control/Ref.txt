@@ -38,6 +38,8 @@ StochasticGradientDescent+ControlTheory
 https://www.reddit.com/r/ControlTheory/comments/6l2s0n/control_theory_equivalent_for_the_stochastic/
 
 
+
+
 Course:
 
 ModelIdentification
@@ -51,3 +53,27 @@ https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UP
 
 ModelPredictiveControl
 https://en.wikipedia.org/wiki/Model_predictive_control
+
+
+MachTrim:
+https://www.youtube.com/watch?v=3UY_wLLRuaA&list=PLserlSre17KKj1e8ZIRq_FqDTcS38ks3v&index=3&t=0s
+
+YawDamper:
+https://www.youtube.com/watch?v=XbUul4FZXWg&t=82s
+
+Rudder:
+https://www.youtube.com/watch?v=FfSLMbj4sGA
+
+Flap:
+https://www.youtube.com/watch?v=b3hDKzmmm9M
+
+Stab Trim:
+https://www.youtube.com/watch?v=S3pK1eR-608
+
+Flight Control:
+https://youtu.be/HYBQ4KHRgVs
+
+Autopilot:
+https://www.youtube.com/watch?v=6MmoC5umlQI&list=PLthUARlELoUX64jYuqyFfiSS9JAV8IJze
+
+

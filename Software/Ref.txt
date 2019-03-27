@@ -112,8 +112,9 @@ Tutorials:
 	Matlab+Tutorials+Arrays
 	https://www.tutorialspoint.com/matlab/matlab_arrays.htm
 	
-
-	
+    Batch:
+    Batch+Script+WebSite+TimeSave+Tool
+	https://www.youtube.com/watch?v=Rcwz9CM9I_E
 	
 	VBA:
 	VBA+Tutorial+StringManipulation
