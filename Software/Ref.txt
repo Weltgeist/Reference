@@ -127,6 +127,10 @@ Tutorials:
 	http://lazyfoo.net/tutorials/SDL/
 	https://www.willusher.io/pages/sdl2/
 	
+	
+	Cpp+MemoryAllocation
+	https://www3.ntu.edu.sg/home/ehchua/programming/cpp/cp4_PointerReference.html
+	
 	C:
 	
 	Matlab:
