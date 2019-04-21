@@ -1,0 +1,79 @@
+Books:
+
+Papers:
+Reference-shaping adaptive control by using gradient descent optimizers
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5706737/
+
+Control Interpretations for First-Order OptimizationMethods
+https://arxiv.org/pdf/1703.01670.pdf
+
+Estimation of IMU and MARG orientation using a
+gradient descent algorithm
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5975346
+
+Self-tuning control of electrical machines using gradient
+descent optimization
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/oca.789
+
+Self-Tuning Control: Laboratory Real - Time Education
+https://www.sciencedirect.com/science/article/pii/S1474667017336789
+
+A Model Reference Adaptive Control (MRAC) System for the Pneumatic Valve of the Bottle Washer in Beverages Using Simulink
+https://www.sciencedirect.com/science/article/pii/S2351978916301664
+
+A PID Controller Approach for Stochastic Optimization of Deep Networks
+http://www4.comp.polyu.edu.hk/~csjunxu/paper/pid-cnn_cvpr2018.pdf
+
+A gradient descent control for output tracking of a class of non-minimum phase nonlinear systems
+www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-64232016000600383
+
+Magazine:
+
+Tuning PID Controller Parameters with Backpropagation
+https://towardsdatascience.com/tuning-pid-controller-parameters-with-backpropagation-c42c6f80d3cd
+
+Forum:
+
+StochasticGradientDescent+ControlTheory
+https://www.reddit.com/r/ControlTheory/comments/6l2s0n/control_theory_equivalent_for_the_stochastic/
+
+
+
+
+Course:
+
+ModelIdentification
+https://web.stanford.edu/class/archive/ee/ee392m/ee392m.1034/Lecture8_ID.pdf
+
+ControlTheory+BootCamp
+https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR
+
+DataDrivenControl+MachineLearning
+https://www.youtube.com/watch?v=oulLR06lj_E&list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR
+
+ModelPredictiveControl
+https://en.wikipedia.org/wiki/Model_predictive_control
+
+
+MachTrim:
+https://www.youtube.com/watch?v=3UY_wLLRuaA&list=PLserlSre17KKj1e8ZIRq_FqDTcS38ks3v&index=3&t=0s
+
+YawDamper:
+https://www.youtube.com/watch?v=XbUul4FZXWg&t=82s
+
+Rudder:
+https://www.youtube.com/watch?v=FfSLMbj4sGA
+
+Flap:
+https://www.youtube.com/watch?v=b3hDKzmmm9M
+
+Stab Trim:
+https://www.youtube.com/watch?v=S3pK1eR-608
+
+Flight Control:
+https://youtu.be/HYBQ4KHRgVs
+
+Autopilot:
+https://www.youtube.com/watch?v=6MmoC5umlQI&list=PLthUARlELoUX64jYuqyFfiSS9JAV8IJze
+
+

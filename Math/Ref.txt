@@ -1,0 +1,9 @@
+
+Optimisation:
+
+	Tutoriel:
+	GeneralInfo
+	https://www.youtube.com/watch?v=AoJQS10Ewn4
+    
+    Python+Tutorial+Optimisation+Theory+Maths
+    http://scipy-lectures.org/advanced/mathematical_optimization/#knowing-your-problem

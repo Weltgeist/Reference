@@ -1,9 +1,21 @@
 Books:
 
 	Bern Bruegge,Allen Dutoit: Object Oriented Software Engineering Using UML,
-	Patterns, and Java(3rd edition)	
+	Patterns, and Java(3rd edition)
+
+Course:
+	ProgramingConcept+OOP+Functional+Procedural+logical
+	https://www.youtube.com/watch?v=cgVVZMfLjEI
 
 Tutorials:
+
+	Mixed:
+	Fortan+Cpp
+	http://www.yolinux.com/TUTORIALS/LinuxTutorialMixingFortranAndC.html
+	https://computing.llnl.gov/tutorials/bgq/mixedProgramming2.pdf
+	https://wiki.calculquebec.ca/w/C%2B%2B_:_appels_Fortran/en
+	https://www.cae.tntech.edu/help/programming/mixed_languages
+	http://pages.tacc.utexas.edu/~eijkhout/istc/html/language.html
 
 	Java:
 
@@ -22,7 +34,25 @@ Tutorials:
 	Python+Beginner+Tutorials
 	https://www.youtube.com/watch?v=rfscVS0vtbw&t=353s
 	https://www.w3schools.com/python/ref_dictionary_keys.asp
-	
+    
+    Python+FunctionalProg
+    https://www.geeksforgeeks.org/python-map-function/
+    http://book.pythontips.com/en/latest/map_filter.html
+    https://thepythonguru.com/python-builtin-functions/reduce/
+    
+    Python+Regex+RegularExpression+String
+    https://pythonforbiologists.com/regular-expressions
+    https://www.tutorialspoint.com/python/string_replace.htm
+    https://realpython.com/python-string-formatting/
+    https://docs.python.org/3.4/library/os.path.html?highlight=expand
+    
+    Python+FileOperations
+    https://stackoverflow.com/questions/39086/search-and-replace-a-line-in-a-file-in-python
+    https://www.w3schools.com/python/python_file_handling.asp
+    http://techs.studyhorror.com/python-copy-rename-files-i-122
+    https://pymotw.com/2/glob/
+	https://www.pythonforbeginners.com/os/pythons-os-module
+    
 	Python+Project+Structure
 	https://julien.danjou.info/starting-your-first-python-project/
 	https://jeffknupp.com/blog/2014/02/04/starting-a-python-project-the-right-way/
@@ -63,23 +93,116 @@ Tutorials:
 	Python+Scripts
 	https://realpython.com/run-python-scripts/
 	
+
 	C++:
+	Cpp+Advanced+Tutorial
+	https://www.learncpp.com/
+    
+    C++MemoryLayout
+    http://www.fredosaurus.com/notes-cpp/arrayptr/23two-dim-array-memory-layout.html
+	
+	Cpp+STDLibrarie
+	https://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4027/C-Tutorial-A-Beginners-Guide-to-stdvector-Part-1.htm
+	
+	Cpp+Beginner+Q/A+Array+PrivateStaticMember+Initialization
+	http://www.cplusplus.com/forum/beginner/160453/
+	https://stackoverflow.com/questions/185844/how-to-initialize-private-static-members-in-c
+	https://www.programiz.com/cpp-programming/passing-arrays-function
+	https://stackoverflow.com/questions/330793/how-to-initialize-a-struct-in-accordance-with-c-programming-language-standards
+	
+	Cpp+TCP/IP
+	https://www.geeksforgeeks.org/socket-programming-cc/
+	
+	DesignPattern+Factory
+	https://www.youtube.com/watch?v=bZ2OHWf7Yb0
+	
 	
 	Cpp+GoogleTest+UnitTest
 	https://www.youtube.com/watch?v=16FI1-d2P4E
+	
+	Cpp+ProjectStructure
+	https://medium.com/heuristics/c-application-development-part-1-project-structure-454b00f9eddc
+	
+	Cpp+SDL2+Games
+	http://lazyfoo.net/tutorials/SDL/
+	https://www.willusher.io/pages/sdl2/
+	
 	C:
 	
 	Matlab:
 	Matlab+Tutorials+Arrays
 	https://www.tutorialspoint.com/matlab/matlab_arrays.htm
 	
+    Batch:
+    Batch+Script+WebSite+TimeSave+Tool
+	https://www.youtube.com/watch?v=Rcwz9CM9I_E
 	
 	VBA:
 	VBA+Tutorial+StringManipulation
 	https://silkyroad.developpez.com/VBA/ManipulerChainesCaracteres/
 	VBA+Tutorial+ExcelObjects
 	http://www.excelfunctions.net/Excel-Objects.html
+	
+	BatScript:
+	Tutorial+Basic
+	https://www.makeuseof.com/tag/write-simple-batch-bat-file/
+	
+	IDE:
+	VisualStudio+EnvParameters
+	https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/compiler-options/how-to-set-environment-variables-for-the-visual-studio-command-line
 
+	
+	CodeBlock+SDL2+Cpp+Image
+	https://www.youtube.com/watch?v=Gj3iXwvKmUY
+	
+MachineLearning:
+	Python
+	Python+MachineLearning+GradientDescent
+	https://www.youtube.com/watch?v=vsWrXfO3wWw
+
+Optimization:
+	Python:
+	Python+Optimization
+	https://www.youtube.com/channel/UCkL2HNDjyhrT6hgWjikmQAg
+	
+Control:
+	Python:
+	Python+StateSpaceModel
+	https://www.youtube.com/watch?v=AmYWJnPnjY8
+	
+	Python+StateSpace+Identification
+	https://stackoverflow.com/questions/37695253/python-identifying-a-state-space-model-for-a-system
+	
+	Python+ControlTheory+Course
+	https://www.youtube.com/watch?v=SgBuzrtqor0&list=PLLBUgWXdTBDhrs5FuoJXni-cIeNYEyxw1
+
+	Matlab:
+	Matlab+SystemIdentification
+	https://www.youtube.com/watch?v=u7hJ1aF-JrU
+	https://www.mathworks.com/help/control/getstart/system-identification-of-plant-models.html
+	https://www.mathworks.com/help/mpc/gs/system-identification-toolbox-models.html
+	
+
+Libraries:
+
+	Python:
+	Python+MachineLearning
+	https://scikit-learn.org/stable/
+	
+	Python:
+	Python+Math+Optimization
+	https://scipy.org/
+	https://docs.scipy.org/doc/scipy/reference/tutorial/optimize.html
+	
+	C++:
+	SDL+GUI+I/OControl+Graphics
+	http://www.libsdl.org/
+	
+	
+	Mix:
+	OpenCV+Python+Cpp+MachineVision
+	https://docs.opencv.org/2.4/doc/tutorials/introduction/windows_install/windows_install.html#windows-installation
+	
 DataStructure&Algorithm:
 	Dictionary+Algorithm+DataStructure
 	https://xlinux.nist.gov/dads/
@@ -90,6 +213,15 @@ CheatSheets:
 	Bash:
 	Bash+CheatSheet+Quick
 	https://devhints.io/bash
+	
+	Linux:
+	Linux+Dictionary+Quick+CheatSheet
+	https://ss64.com/bash/
+	https://ryanstutorials.net/linuxtutorial/cheatsheet.php
+	
+	Git
+	Git+Cmd+CheatSheet
+	https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
 
 Anecdote:	
 	
@@ -150,20 +282,60 @@ Tools:
 	https://jsonplaceholder.typicode.com/
 	https://my-json-server.typicode.com/
 	
-	CommandPrompt
+	CommandPrompt:
 	Cmd+UsefulTools
 	https://www.youtube.com/watch?v=YBa5z0OHYQw
 	
-	C
+	gcc:
+	Compiler+Options
+	https://gcc.gnu.org/onlinedocs/gcc-6.2.0/gcc/x86-Options.html
+	
+	gcc+Make
+	https://gcc.gnu.org/onlinedocs/gcc-6.2.0/gcc/x86-Options.html
+	
+	KoolPlot
+	PlotTool
+	http://koolplot.codecutter.org/
+	
+	QCustomPlot
+	PlotTool+Qt
+	https://www.qcustomplot.com/
+	
+	Gnuplot
+	PlotTool
+	http://www.gnuplot.info/
+	http://stahlke.org/dan/gnuplot-iostream/
+	http://ndevilla.free.fr/gnuplot/
+	
+	MathGl
+	PlotTool
+	http://mathgl.sourceforge.net/doc_en/Main.html
 	
 	CMake:
+	CrossPlatform+Build+Compilation
+	https://cmake.org/
+	
+	Cygwin:
+	LinuxInterpretor
+	https://cygwin.com/install.html
 	
 	Make:
+	
+	TurtoiseSVN
+	RevisionControl+VersionControl+SourceControl
+	https://tortoisesvn.net/
+	
+	Git:
+	Git+Informal
+	https://en.wikipedia.org/wiki/Git
+	Git+Rebase
+	https://benmarshall.me/git-rebase/
 	
 Information
     License:
 	Generic+Information
 	https://choosealicense.com/
+	https://www.youtube.com/watch?v=RvuYC2hIBaw
 	Structure:
 	Python+ProjectStructure
 	https://blog.ionelmc.ro/2014/05/25/python-packaging/
@@ -184,6 +356,8 @@ Trouble Shooting:
 	
 	Computer+BSOD
 	http://www.bleepingcomputer.com/forums/t/40108/how-to-use-event-viewer/
+Tools
+    dir filename.ext /S /B
 	
 Acess:
 	SSH+Windows+Linux
