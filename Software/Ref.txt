@@ -337,6 +337,9 @@ Tools:
 	https://en.wikipedia.org/wiki/Git
 	Git+Rebase
 	https://benmarshall.me/git-rebase/
+
+	VIM:
+	https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1)
 	
 Information
     License:
@@ -365,6 +368,10 @@ Trouble Shooting:
 	
 	Computer+BSOD
 	http://www.bleepingcomputer.com/forums/t/40108/how-to-use-event-viewer/
+
+	CMD:
+	https://unix.stackexchange.com/questions/483826/when-i-start-xterm-my-bashrc-doesnt-get-sourced
+	https://askubuntu.com/questions/237942/how-does-copy-paste-work-with-xterm
 Tools
     dir filename.ext /S /B
 	
