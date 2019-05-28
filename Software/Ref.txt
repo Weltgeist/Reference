@@ -337,6 +337,7 @@ Tools:
 
 	VIM:
 	https://vim.fandom.com/wiki/Mapping_keys_in_Vim_-_Tutorial_(Part_1)
+	https://realpython.com/vim-and-python-a-match-made-in-heaven/#vim-extensions
 	
 Information
     License:
