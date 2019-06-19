@@ -357,6 +357,8 @@ Trouble Shooting:
     https://stackoverflow.com/questions/53137700/ssl-module-in-python-is-not-available-windows-7
     pip install --upgrade pip --trusted-host pypi.org --trusted-host files.pythonhosted.org
     https://github.com/pypa/pip/issues/5448
+	Gdb+Init+ConfigFile
+	https://stackoverflow.com/questions/15399265/how-do-i-load-gdbinit-on-gdb-startup
 	
 	Computer+BSOD
 	http://www.bleepingcomputer.com/forums/t/40108/how-to-use-event-viewer/
