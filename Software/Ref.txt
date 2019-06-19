@@ -158,6 +158,9 @@ Tutorials:
 	
 	CodeBlock+SDL2+Cpp+Image
 	https://www.youtube.com/watch?v=Gj3iXwvKmUY
+Basics:
+	Char+Bool+Flags
+	https://stackoverflow.com/questions/17441850/putting-mutiple-booleans-into-an-unsigned-char
 	
 MachineLearning:
 	Python
